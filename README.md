@@ -15,6 +15,13 @@ Non-authoritative answer:
 Address: 99.84.47.81
 ```
 
+```
+Status
+Not applicable
+
+This submission was marked not applicable. It is not a rewardable submission at this time.
+```
+
 ![s1](https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/binance-php-session-injection.gif)
 
 ![s1](https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/Binance-01.png)
