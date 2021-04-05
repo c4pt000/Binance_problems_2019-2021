@@ -5,6 +5,16 @@ https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/Your%20Elastic%20
 
 https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/binance-php-session-injection.mp4
 
+```
+nslookup binance.us
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+
+Address: 99.84.47.81
+```
+
 ![s1](https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/binance-php-session-injection.gif)
 
 ![s1](https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/Binance-01.png)
