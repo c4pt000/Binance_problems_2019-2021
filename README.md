@@ -2,7 +2,10 @@
 
 https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/Your%20Elastic%20Security%20Team%2C%20better%20security%20testing%20through%20bug%20bounties%20and%20managed%20security%20programs%20_%20Bugcrowd.pdf
 
+2019 discovery of apache http cgi injection
+https://drive.google.com/file/d/1u8UhJQu6PmC-sgLGkohe4hHUPMRTTy1w/view?usp=sharing
 
+2021 php injection discovery
 https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/binance-php-session-injection.mp4
 
 ```
