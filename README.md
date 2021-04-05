@@ -15,3 +15,4 @@ pg10 align="center"><img src="https://" width="800"></p><p align="center"
 
 
 
+![s1](https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/binance-php-session-injection.gif)
