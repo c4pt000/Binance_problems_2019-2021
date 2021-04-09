@@ -47,6 +47,20 @@ Not applicable
 This submission was marked not applicable. It is not a rewardable submission at this time.
 ```
 
+# update
+* 04-09-2021
+![s1](https://github.com/c4pt000/Binance_problems_2019-2021/blob/main/binance-php-injection-session-04-09-2021.gif)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ![s1](https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/binance-php-session-injection.gif)
 
 ![s1](https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/Binance-01.png)
