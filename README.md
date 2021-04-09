@@ -22,6 +22,25 @@ PING binance.us (13.224.211.104) 56(84) bytes of data.
 
 # Binance_problems_2019-2021
 
+
+
+# update https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/binance-php-injection-session-04-09-2021.mp4
+* 04-09-2021
+![s1](https://github.com/c4pt000/Binance_problems_2019-2021/blob/main/binance-php-injection-session-04-09-2021.gif)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/Your%20Elastic%20Security%20Team%2C%20better%20security%20testing%20through%20bug%20bounties%20and%20managed%20security%20programs%20_%20Bugcrowd.pdf
 
 2019 discovery of apache http cgi injection
@@ -46,20 +65,6 @@ Not applicable
 
 This submission was marked not applicable. It is not a rewardable submission at this time.
 ```
-
-# update
-* 04-09-2021
-![s1](https://github.com/c4pt000/Binance_problems_2019-2021/blob/main/binance-php-injection-session-04-09-2021.gif)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 ![s1](https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/binance-php-session-injection.gif)
 
