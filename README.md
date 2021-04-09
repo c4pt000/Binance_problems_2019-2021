@@ -1,3 +1,25 @@
+* binance.us recent ip change
+```
+┌─[c4pt@localhost]─[~]
+└──╼ $nslookup binance.us
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	binance.us
+Address: 13.224.211.104
+Name:	binance.us
+Address: 13.224.211.71
+Name:	binance.us
+Address: 13.224.211.83
+Name:	binance.us
+Address: 13.224.211.90
+
+┌─[c4pt@localhost]─[~]
+└──╼ $ping binance.us
+PING binance.us (13.224.211.104) 56(84) bytes of data.
+```
+
 # Binance_problems_2019-2021
 
 https://github.com/c4pt000/Binance_problems_2019-2021/raw/main/Your%20Elastic%20Security%20Team%2C%20better%20security%20testing%20through%20bug%20bounties%20and%20managed%20security%20programs%20_%20Bugcrowd.pdf
