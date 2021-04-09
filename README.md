@@ -1,4 +1,4 @@
-* binance.us recent ip change
+* binance.us recent ip change 04-09-2021
 ```
 ┌─[c4pt@localhost]─[~]
 └──╼ $nslookup binance.us
